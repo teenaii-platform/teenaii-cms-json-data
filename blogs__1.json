@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "attributes": {
+      "title": "test1",
+      "content": "test www",
+      "createdAt": "2022-03-30T08:34:05.915Z",
+      "updatedAt": "2022-03-30T08:57:42.894Z",
+      "publishedAt": "2022-03-30T08:34:08.746Z",
+      "locale": "en",
+      "coverImage": {
+        "data": {
+          "id": 2,
+          "attributes": {
+            "name": "21-1643372242.jpeg",
+            "alternativeText": "21-1643372242.jpeg",
+            "caption": "21-1643372242.jpeg",
+            "width": 2048,
+            "height": 1152,
+            "formats": {
+              "large": {
+                "ext": ".jpeg",
+                "url": "https://storage.googleapis.com/teenaii-assets/cms/large_21_1643372242_8b1b89fc58/large_21_1643372242_8b1b89fc58.jpeg",
+                "hash": "large_21_1643372242_8b1b89fc58",
+                "mime": "image/jpeg",
+                "name": "large_21-1643372242.jpeg",
+                "path": null,
+                "size": 89.06,
+                "width": 1000,
+                "height": 563
+              },
+              "small": {
+                "ext": ".jpeg",
+                "url": "https://storage.googleapis.com/teenaii-assets/cms/small_21_1643372242_8b1b89fc58/small_21_1643372242_8b1b89fc58.jpeg",
+                "hash": "small_21_1643372242_8b1b89fc58",
+                "mime": "image/jpeg",
+                "name": "small_21-1643372242.jpeg",
+                "path": null,
+                "size": 31.57,
+                "width": 500,
+                "height": 281
+              },
+              "medium": {
+                "ext": ".jpeg",
+                "url": "https://storage.googleapis.com/teenaii-assets/cms/medium_21_1643372242_8b1b89fc58/medium_21_1643372242_8b1b89fc58.jpeg",
+                "hash": "medium_21_1643372242_8b1b89fc58",
+                "mime": "image/jpeg",
+                "name": "medium_21-1643372242.jpeg",
+                "path": null,
+                "size": 57.64,
+                "width": 750,
+                "height": 422
+              },
+              "xlarge": {
+                "ext": ".jpeg",
+                "url": "https://storage.googleapis.com/teenaii-assets/cms/xlarge_21_1643372242_8b1b89fc58/xlarge_21_1643372242_8b1b89fc58.jpeg",
+                "hash": "xlarge_21_1643372242_8b1b89fc58",
+                "mime": "image/jpeg",
+                "name": "xlarge_21-1643372242.jpeg",
+                "path": null,
+                "size": 238.24,
+                "width": 1920,
+                "height": 1080
+              },
+              "xsmall": {
+                "ext": ".jpeg",
+                "url": "https://storage.googleapis.com/teenaii-assets/cms/xsmall_21_1643372242_8b1b89fc58/xsmall_21_1643372242_8b1b89fc58.jpeg",
+                "hash": "xsmall_21_1643372242_8b1b89fc58",
+                "mime": "image/jpeg",
+                "name": "xsmall_21-1643372242.jpeg",
+                "path": null,
+                "size": 1.5,
+                "width": 64,
+                "height": 36
+              },
+              "thumbnail": {
+                "ext": ".jpeg",
+                "url": "https://storage.googleapis.com/teenaii-assets/cms/thumbnail_21_1643372242_8b1b89fc58/thumbnail_21_1643372242_8b1b89fc58.jpeg",
+                "hash": "thumbnail_21_1643372242_8b1b89fc58",
+                "mime": "image/jpeg",
+                "name": "thumbnail_21-1643372242.jpeg",
+                "path": null,
+                "size": 10.93,
+                "width": 245,
+                "height": 138
+              }
+            },
+            "hash": "21_1643372242_8b1b89fc58",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "size": 263.81,
+            "url": "https://storage.googleapis.com/teenaii-assets/cms/21_1643372242_8b1b89fc58/21_1643372242_8b1b89fc58.jpeg",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-google-cloud-storage",
+            "provider_metadata": null,
+            "createdAt": "2022-03-30T02:20:53.141Z",
+            "updatedAt": "2022-03-30T02:20:53.141Z"
+          }
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "id": 2,
+            "attributes": {
+              "name": "21-1643372242.jpeg",
+              "alternativeText": "21-1643372242.jpeg",
+              "caption": "21-1643372242.jpeg",
+              "width": 2048,
+              "height": 1152,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "https://storage.googleapis.com/teenaii-assets/cms/large_21_1643372242_8b1b89fc58/large_21_1643372242_8b1b89fc58.jpeg",
+                  "hash": "large_21_1643372242_8b1b89fc58",
+                  "mime": "image/jpeg",
+                  "name": "large_21-1643372242.jpeg",
+                  "path": null,
+                  "size": 89.06,
+                  "width": 1000,
+                  "height": 563
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "https://storage.googleapis.com/teenaii-assets/cms/small_21_1643372242_8b1b89fc58/small_21_1643372242_8b1b89fc58.jpeg",
+                  "hash": "small_21_1643372242_8b1b89fc58",
+                  "mime": "image/jpeg",
+                  "name": "small_21-1643372242.jpeg",
+                  "path": null,
+                  "size": 31.57,
+                  "width": 500,
+                  "height": 281
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "https://storage.googleapis.com/teenaii-assets/cms/medium_21_1643372242_8b1b89fc58/medium_21_1643372242_8b1b89fc58.jpeg",
+                  "hash": "medium_21_1643372242_8b1b89fc58",
+                  "mime": "image/jpeg",
+                  "name": "medium_21-1643372242.jpeg",
+                  "path": null,
+                  "size": 57.64,
+                  "width": 750,
+                  "height": 422
+                },
+                "xlarge": {
+                  "ext": ".jpeg",
+                  "url": "https://storage.googleapis.com/teenaii-assets/cms/xlarge_21_1643372242_8b1b89fc58/xlarge_21_1643372242_8b1b89fc58.jpeg",
+                  "hash": "xlarge_21_1643372242_8b1b89fc58",
+                  "mime": "image/jpeg",
+                  "name": "xlarge_21-1643372242.jpeg",
+                  "path": null,
+                  "size": 238.24,
+                  "width": 1920,
+                  "height": 1080
+                },
+                "xsmall": {
+                  "ext": ".jpeg",
+                  "url": "https://storage.googleapis.com/teenaii-assets/cms/xsmall_21_1643372242_8b1b89fc58/xsmall_21_1643372242_8b1b89fc58.jpeg",
+                  "hash": "xsmall_21_1643372242_8b1b89fc58",
+                  "mime": "image/jpeg",
+                  "name": "xsmall_21-1643372242.jpeg",
+                  "path": null,
+                  "size": 1.5,
+                  "width": 64,
+                  "height": 36
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "https://storage.googleapis.com/teenaii-assets/cms/thumbnail_21_1643372242_8b1b89fc58/thumbnail_21_1643372242_8b1b89fc58.jpeg",
+                  "hash": "thumbnail_21_1643372242_8b1b89fc58",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_21-1643372242.jpeg",
+                  "path": null,
+                  "size": 10.93,
+                  "width": 245,
+                  "height": 138
+                }
+              },
+              "hash": "21_1643372242_8b1b89fc58",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 263.81,
+              "url": "https://storage.googleapis.com/teenaii-assets/cms/21_1643372242_8b1b89fc58/21_1643372242_8b1b89fc58.jpeg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-google-cloud-storage",
+              "provider_metadata": null,
+              "createdAt": "2022-03-30T02:20:53.141Z",
+              "updatedAt": "2022-03-30T02:20:53.141Z"
+            }
+          }
+        ]
+      },
+      "localizations": {
+        "data": []
+      }
+    }
+  }
+]
