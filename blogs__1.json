@@ -1,14 +1,14 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "attributes": {
-      "title": "test2",
-      "content": "test2![0_EfvHYbY5viggVlSK.png](https://storage.googleapis.com/teenaii-assets/cms/0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png)",
-      "createdAt": "2022-03-30T22:18:56.171Z",
-      "updatedAt": "2022-03-30T22:26:32.588Z",
-      "publishedAt": "2022-03-30T22:19:58.516Z",
+      "title": "What you need to know about The Graph (GRT)",
+      "content": "**The Graph (GRT)** is a\ndecentralized and open-source indexing protocol for blockchain data. \ntest and test\nDevelopers \ncan \nbuild and \npublish various APIs called subgraphs that perform queries over the GraphQL. We’ll explain what a GraphQL is good for later.![IMG_1718.JPG](https://storage.googleapis.com/teenaii-assets/cms/IMG_1718_a7516c9c88/IMG_1718_a7516c9c88.jpg)\nThe platform can be used to search for any Ethereum data through simple queries conveniently. This addresses the common problem that many other blockchain indexing platforms have.\nBlockchain applications struggle to adhere to properties such as finality, chain reorganization, and query fulfillment security. The Graph aims to remedy this and other problems.\nThrough “_subgraphs_” The Graph indexes blockchain data that users can access through the GraphQL API. According to the team, they will fully decentralize it in the future. More nodes will be involved and made responsible for maintaining the index.\nInterest in the platform continues to grow. In fact, they reached over one billion queries last June 2020. That was right around the time that decentralized finance was also gaining a lot of institutional attention.",
+      "createdAt": "2022-03-30T15:34:05.915Z",
+      "updatedAt": "2022-04-01T13:30:42.324Z",
+      "publishedAt": "2022-03-30T15:34:08.746Z",
       "locale": "en",
-      "type": "txt_txt_img",
+      "type": null,
       "coverImage": {
         "data": {
           "id": 6,
@@ -87,105 +87,6 @@
             "updatedAt": "2022-03-30T22:18:30.885Z"
           }
         }
-      },
-      "images": {
-        "data": [
-          {
-            "id": 6,
-            "attributes": {
-              "name": "0_EfvHYbY5viggVlSK.png",
-              "alternativeText": "0_EfvHYbY5viggVlSK.png",
-              "caption": "0_EfvHYbY5viggVlSK.png",
-              "width": 1024,
-              "height": 843,
-              "formats": {
-                "large": {
-                  "ext": ".png",
-                  "url": "https://storage.googleapis.com/teenaii-assets/cms/large_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/large_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png",
-                  "hash": "large_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f",
-                  "mime": "image/png",
-                  "name": "large_0_EfvHYbY5viggVlSK.png",
-                  "path": null,
-                  "size": 580.89,
-                  "width": 1000,
-                  "height": 823
-                },
-                "small": {
-                  "ext": ".png",
-                  "url": "https://storage.googleapis.com/teenaii-assets/cms/small_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/small_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png",
-                  "hash": "small_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f",
-                  "mime": "image/png",
-                  "name": "small_0_EfvHYbY5viggVlSK.png",
-                  "path": null,
-                  "size": 182.44,
-                  "width": 500,
-                  "height": 412
-                },
-                "medium": {
-                  "ext": ".png",
-                  "url": "https://storage.googleapis.com/teenaii-assets/cms/medium_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/medium_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png",
-                  "hash": "medium_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f",
-                  "mime": "image/png",
-                  "name": "medium_0_EfvHYbY5viggVlSK.png",
-                  "path": null,
-                  "size": 372.15,
-                  "width": 750,
-                  "height": 617
-                },
-                "xsmall": {
-                  "ext": ".png",
-                  "url": "https://storage.googleapis.com/teenaii-assets/cms/xsmall_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/xsmall_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png",
-                  "hash": "xsmall_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f",
-                  "mime": "image/png",
-                  "name": "xsmall_0_EfvHYbY5viggVlSK.png",
-                  "path": null,
-                  "size": 5.31,
-                  "width": 64,
-                  "height": 53
-                },
-                "thumbnail": {
-                  "ext": ".png",
-                  "url": "https://storage.googleapis.com/teenaii-assets/cms/thumbnail_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/thumbnail_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png",
-                  "hash": "thumbnail_0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f",
-                  "mime": "image/png",
-                  "name": "thumbnail_0_EfvHYbY5viggVlSK.png",
-                  "path": null,
-                  "size": 32.09,
-                  "width": 189,
-                  "height": 156
-                }
-              },
-              "hash": "0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f",
-              "ext": ".png",
-              "mime": "image/png",
-              "size": 99.79,
-              "url": "https://storage.googleapis.com/teenaii-assets/cms/0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f/0_Efv_H_Yb_Y5vigg_Vl_SK_5374b6db9f.png",
-              "previewUrl": null,
-              "provider": "strapi-provider-upload-google-cloud-storage",
-              "provider_metadata": null,
-              "createdAt": "2022-03-30T22:18:30.885Z",
-              "updatedAt": "2022-03-30T22:18:30.885Z"
-            }
-          }
-        ]
-      },
-      "localizations": {
-        "data": []
-      }
-    }
-  },
-  {
-    "id": 1,
-    "attributes": {
-      "title": "What you need to know about The Graph (GRT)",
-      "content": "**The Graph (GRT)** is a decentralized and open-source indexing protocol for blockchain data. Developers can build and publish various APIs called subgraphs that perform queries over the GraphQL. We’ll explain what a GraphQL is good for later.\nThe platform can be used to search for any Ethereum data through simple queries conveniently. This addresses the common problem that many other blockchain indexing platforms have.\nBlockchain applications struggle to adhere to properties such as finality, chain reorganization, and query fulfillment security. The Graph aims to remedy this and other problems.\nThrough “_subgraphs_” The Graph indexes blockchain data that users can access through the GraphQL API. According to the team, they will fully decentralize it in the future. More nodes will be involved and made responsible for maintaining the index.\nInterest in the platform continues to grow. In fact, they reached over one billion queries last June 2020. That was right around the time that decentralized finance was also gaining a lot of institutional attention.",
-      "createdAt": "2022-03-30T15:34:05.915Z",
-      "updatedAt": "2022-03-30T19:10:18.381Z",
-      "publishedAt": "2022-03-30T15:34:08.746Z",
-      "locale": "en",
-      "type": null,
-      "coverImage": {
-        "data": null
       },
       "images": {
         "data": null
